@@ -1,3 +1,1 @@
-<template>
-TODO agreg
-</template>
+<template>TODO agreg</template>

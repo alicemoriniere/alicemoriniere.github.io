@@ -1,3 +1,1 @@
-<template>
-TODO research
-</template>
+<template>TODO research</template>

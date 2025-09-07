@@ -1,5 +1,5 @@
 <template>
-  <img src="./assets/roses.jpeg" class="bannerimg" />
+  <img src="./assets/dahlias.jpg" class="bannerimg" />
   <div class="flex m-10">
     <img src="./assets/moi.jpg" class="img-photo" />
     <div class="flex flex-col w-5/8 px-5">

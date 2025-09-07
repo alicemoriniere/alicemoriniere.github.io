@@ -1,7 +1,7 @@
 <template>
-  <img src="./assets/home.jpeg" class="bannerimg" />
+  <img src="./assets/roses.jpeg" class="bannerimg" />
   <div class="flex m-10">
-    <img src="./assets/photo.jpg" class="img-photo" />
+    <img src="./assets/moi.jpg" class="img-photo" />
     <div class="flex flex-col w-5/8 px-5">
       <span class="text-3xl underline mb-5"> Alice Morinière </span>
       <span>

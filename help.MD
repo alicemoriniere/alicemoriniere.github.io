@@ -25,4 +25,5 @@ Commande: `git pull`
 Le fichier `App.vue` contient la banière.
 Les autres fichiers `...View.vue` contiennent chacune des sous pages.
 
+Faire Ctrl+C pour fermer une commande
 

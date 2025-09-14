@@ -23,10 +23,10 @@
 }
 /*Couleur de la barre */
 nav {
-  background-color: #00ff00;
+  background-color: #552f3c;
 }
 /* Couleur quand la souris passe sur la case*/
 .nav-router:hover {
-  background-color: #ff00ff;
+  background-color: #d921af;
 }
 </style>

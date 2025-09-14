@@ -130,86 +130,77 @@
         </a></span
       >
       <span class="my-xp">
-        <a href="dev/isocube.pdf" target="_blank" class="underline"
-          >Isométries du cube
-        </a></span 
+        <a href="dev/isocube.pdf" target="_blank" class="underline">Isométries du cube </a></span
       >
       <span class="my-xp">
-        <a href="dev/lemmorse.pdf" target="_blank" class="underline"
-          >Lemme de Morse
-        </a></span 
+        <a href="dev/lemmorse.pdf" target="_blank" class="underline">Lemme de Morse </a></span
       >
       <span class="my-xp">
-        <a href="dev/projcvx.pdf" target="_blank" class="underline"
-          > Projection sur un convexe fermé
-        </a></span 
+        <a href="dev/projcvx.pdf" target="_blank" class="underline">
+          Projection sur un convexe fermé
+        </a></span
       >
       <span class="my-xp">
-        <a href="dev/prolongamma.pdf" target="_blank" class="underline"
-          > Prolongement de la fonction gamma
-        </a></span 
+        <a href="dev/prolongamma.pdf" target="_blank" class="underline">
+          Prolongement de la fonction gamma
+        </a></span
       >
       <span class="my-xp">
-        <a href="dev/redfrob.pdf" target="_blank" class="underline"
-          > Réduction de Frobenius
-        </a></span 
+        <a href="dev/redfrob.pdf" target="_blank" class="underline">
+          Réduction de Frobenius
+        </a></span
       >
       <span class="my-xp">
-        <a href="dev/redendonormaux.pdf" target="_blank" class="underline"
-          > Réduction des endomorphismes normaux
-        </a></span 
+        <a href="dev/redendonormaux.pdf" target="_blank" class="underline">
+          Réduction des endomorphismes normaux
+        </a></span
       >
       <span class="my-xp">
-        <a href="dev/simplan.pdf" target="_blank" class="underline"
-          > Simplicité de An
-        </a></span 
+        <a href="dev/simplan.pdf" target="_blank" class="underline"> Simplicité de An </a></span
       >
       <span class="my-xp">
-        <a href="dev/surjexpo.pdf" target="_blank" class="underline"
-          > Surjectivité de l'exponentielle matricielle
-        </a></span 
+        <a href="dev/surjexpo.pdf" target="_blank" class="underline">
+          Surjectivité de l'exponentielle matricielle
+        </a></span
       >
       <span class="my-xp">
-        <a href="dev/testsprima.pdf" target="_blank" class="underline"
-          > Tests de primalité
-        </a></span 
+        <a href="dev/testsprima.pdf" target="_blank" class="underline">
+          Tests de primalité
+        </a></span
       >
       <span class="my-xp">
-        <a href="dev/thmchinois.pdf" target="_blank" class="underline"
-          > Théorème chinois et applications
-        </a></span 
+        <a href="dev/thmchinois.pdf" target="_blank" class="underline">
+          Théorème chinois et applications
+        </a></span
       >
       <span class="my-xp">
-        <a href="dev/thmascoli.pdf" target="_blank" class="underline"
-          > Théorème d'Ascoli
-        </a></span 
+        <a href="dev/thmascoli.pdf" target="_blank" class="underline"> Théorème d'Ascoli </a></span
       >
       <span class="my-xp">
-        <a href="dev/thmgw.pdf" target="_blank" class="underline"
-          > Théorème de Gauss Wantzel
-        </a></span 
+        <a href="dev/thmgw.pdf" target="_blank" class="underline">
+          Théorème de Gauss Wantzel
+        </a></span
       >
       <span class="my-xp">
-        <a href="dev/thmlevy.pdf" target="_blank" class="underline"
-          >  Théorème de Lévy et théorème central limite
-        </a></span 
+        <a href="dev/thmlevy.pdf" target="_blank" class="underline">
+          Théorème de Lévy et théorème central limite
+        </a></span
       >
       <span class="my-xp">
-        <a href="dev/thmriesz.pdf" target="_blank" class="underline"
-          >  Théorème de Riesz Fischer
-        </a></span 
+        <a href="dev/thmriesz.pdf" target="_blank" class="underline">
+          Théorème de Riesz Fischer
+        </a></span
       >
       <span class="my-xp">
-        <a href="dev/thmsunyer.pdf" target="_blank" class="underline"
-          >  Théorème de Sunyer i Balaguer 
-        </a></span 
+        <a href="dev/thmsunyer.pdf" target="_blank" class="underline">
+          Théorème de Sunyer i Balaguer
+        </a></span
       >
       <span class="my-xp">
-        <a href="dev/thmweier.pdf" target="_blank" class="underline"
-          >  Théorème de Weierstrass par les polynômes de Bernstein
-        </a></span 
+        <a href="dev/thmweier.pdf" target="_blank" class="underline">
+          Théorème de Weierstrass par les polynômes de Bernstein
+        </a></span
       >
-
-    </div> 
+    </div>
   </div>
 </template>

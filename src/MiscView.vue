@@ -2,7 +2,7 @@
 import katex from 'katex'
 import 'katex/dist/katex.min.css'
 
-const title = (name) => {
+const title = (name: string) => {
   return katex.renderToString(name, {
     throwOnError: false,
     output: 'html',

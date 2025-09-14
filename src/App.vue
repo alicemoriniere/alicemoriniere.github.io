@@ -1,7 +1,7 @@
 <script setup lang="ts"></script>
 
 <template>
-  <nav class="flex justify-between py-4 px-8 bg-amber-900">
+  <nav class="flex justify-between py-4 px-8">
     <RouterLink to="/" class="nav-router">Accueil</RouterLink>
     <RouterLink to="/enseignements" class="nav-router">Enseignements</RouterLink>
     <RouterLink to="/recherche" class="nav-router">Recherche</RouterLink>
@@ -21,8 +21,12 @@
   border-radius: 15px;
   font-size: 20px;
 }
-
+/*Couleur de la barre */
+nav {
+  background-color: #00ff00;
+}
+/* Couleur quand la souris passe sur la case*/
 .nav-router:hover {
-  background-color: oklch(90.1% 0.058 230.902);
+  background-color: #ff00ff;
 }
 </style>

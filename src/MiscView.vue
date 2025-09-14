@@ -8,11 +8,19 @@ const equation = () => {
     output: 'html',
   })
 }
+
+const einstein = () => {
+  return katex.renderToString(String.raw`E = mc^2`, {
+    throwOnError: false,
+    output: 'html',
+  })
+}
 </script>
 
 <template>
   <div class="flex m-10 flex-col">
     <span> Latex </span>
     <span v-html="equation()" class="text-xl" />
+    <span v-html="einstein()" class="text-xl" />
   </div>
 </template>

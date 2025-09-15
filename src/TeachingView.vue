@@ -1,9 +1,11 @@
 <template>
+  <img src="./assets/dahliasccc.jpg" class="bannerimg" />
   <div class="flex flex-col m-5 justify-start">
     <span class="text-3xl my-2 underline bold"> TP de la préparation à la modélisation en option A :</span>
-   <span class="text-2xl my-2 bold"> Enoncé des TP :</span>
+<span> J'ajouterai au fur et à mesure de l'année mes corrections et récaps de TP. </span>
+   <span class="text-2xl my-3 bold"> Enoncés et corrections des TP :</span>
     <!--grid-cols-n: nombre de colonnes, gap-x/y : espacement entre deux cellules -->
-    <div class="grid grid-cols-8 gap-x-5 gap-y-5 mt-5">
+    <div class="grid grid-cols-8 gap-x-5 gap-y-5 mt-1">
       <span>
         <a href="tp/tp1Python.pdf" target="_blank" class="underline"> TP n°1 </a>  </span>
       <span>
@@ -22,11 +24,35 @@
         <a href="tp/tp8Python.pdf" target="_blank" class="underline"> TP n°8 </a>  </span>
     </div> 
 
-    <span class="text-2xl my-2 bold"> Enseignement 2:</span>
-    <span class="my-px">Cours numéro 1 donné le 01/09/2025</span>
-    <span class="my-px">Cours numéro 2 donné le 02/09/2025</span>
-    <span class="my-px">Cours numéro 3 donné le 03/09/2025</span>
-    <span class="my-px">Cours numéro 4 donné le 04/09/2025</span>
-    <span class="my-px">Cours numéro 5 donné le 05/09/2025</span>
+    <span class="text-2xl my-5 bold"> Données nécessaires aux TP :</span>
+    <!--grid-cols-n: nombre de colonnes, gap-x/y : espacement entre deux cellules -->
+    <div class="grid grid-cols-1 gap-x-5 gap-y-5 mt-1">
+      <span>
+        TP n°1 :  <a href="tp/donnees.csv" target="_blank" class="underline"> données </a>   </span> 
+      <span>
+        TP n°2 : <a href="tp/donnees2.csv" target="_blank" class="underline"> données2</a>, <a href="tp/donnees3.csv" target="_blank" class="underline"> données3</a> et <a href="tp/donnees4.csv" target="_blank" class="underline"> données4 </a>  </span>
+      <span>
+        TP n°5 : <a href="tp/donnees5.csv" target="_blank" class="underline"> données Z </a>  </span>
+      <span>
+        TP n°6 : <a href="tp/donnees6.1.csv" target="_blank" class="underline"> données x (unif)</a>, <a href="tp/donnees6.2.csv" target="_blank" class="underline"> données x (gaussienne)</a>, <a href="tp/donnees6.3.csv" target="_blank" class="underline"> données y</a>, <a href="tp/donnees6.4.csv" target="_blank" class="underline"> données z</a> et <a href="tp/donnees6.5.csv" target="_blank" class="underline"> données densité </a>  </span>
+       <span>
+        TP n°5 : <a href="tp/donnees7.1.csv" target="_blank" class="underline"> données X</a> et  <a href="tp/donnees7.2.csv" target="_blank" class="underline"> données Y</a></span>
+    </div> 
+
   </div>
 </template>
+
+<style scoped>
+.img-photo {
+  width: 19vw;
+}
+.text-block {
+  width: 40vw;
+}
+.bannerimg {
+  width: 100%;
+  height: 35vh;
+  object-fit: cover;
+}
+</style>
+

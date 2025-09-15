@@ -7,7 +7,7 @@
       face aux questions (en revanche ils sont tous rédigés à la main...). Il est fort probable que
       ces documens contiennent des coquilles, n'hésitez pas à me les signaler ! Voici un document
       qui résume mon couplage (leçon vers dev et dev vers leçon) : A FAIRE. Certaines associations
-      sont probablement un peu tirées par les cheveux, il faut bien combler les trous...
+      sont probablement un peu tirées par les cheveux, mais il faut bien combler les trous...
     </span>
     <!--grid-cols-n: nombre de colonnes, gap-x/y : espacement entre deux cellules -->
     <div class="grid grid-cols-2 gap-x-5 gap-y-5 mt-5">
@@ -211,5 +211,12 @@
       >
 
     </div> 
+  <div class="flex flex-col my-10">
+   <span >
+      Voilà également le <a href="memoire.pdf" target="_blank" class="underline"
+          > mémoire</a>  que j'ai rédigé sur la leçon 102 : Groupe des nombres complexes de
+ module 1. Racines de l’unité. Applications.
+   </span>
+   </div>
   </div>
 </template>

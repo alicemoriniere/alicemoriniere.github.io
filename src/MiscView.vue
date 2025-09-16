@@ -1,40 +1,17 @@
-<script setup lang="ts">
-import katex from 'katex'
-import 'katex/dist/katex.min.css'
-
-const title = (name: string) => {
-  return katex.renderToString(name, {
-    throwOnError: false,
-    output: 'html',
-  })
-}
-</script>
-
 <template>
-<img src="./assets/dahliasccc.jpg" class="bannerimg" />
-  <div class="flex m-10 flex-col">
-    <a
-      target="_blank"
-      href="/cours/main.pdf"
-      v-html="
-        title(String.raw`E = mc^2\text{ hello
-      }x^2`)
-      "
-      class="underline"
-    />
-  </div>
-</template>
+<div class="flex flex-col m-5 justify-start">
+    <span class="text-2xl my-2 underline "> Mémoires de stages ou projets réalisés au cours de ma scolarité :</span>
 
-<style scoped>
-.img-photo {
-  width: 19vw;
-}
-.text-block {
-  width: 40vw;
-}
-.bannerimg {
-  width: 100%;
-  height: 35vh;
-  object-fit: cover;
-}
-</style>
+  <span> <a class="bold"> Stage de M2 :</a> J'ai effectué mon stage de M2 sous la direction de <a class="underline" href="https://jcbreton.pages.math.cnrs.fr/jcb/" _target="blank">
+          Jean-Christophe Breton,</a> sur le thème "Processus ponctuels : théorie et modélisation". Voici mon <a href="rapportstage/stageM2.pdf" target="_blank" class="underline"> mémoire</a>.
+ </span>
+<span> <a class="bold"> Séminaire :</a> J'ai effectué mon séminaire sous la direction de <a class="underline" href="https://jcbreton.pages.math.cnrs.fr/jcb/" _target="blank">
+          Jean-Christophe Breton,</a> sur le thème "Processus ponctuels : théorie et modélisation". Voici mon <a href="rapportstage/stageM2.pdf" target="_blank" class="underline"> mémoire</a>.
+ </span>
+
+
+</div>
+
+
+ </template>
+

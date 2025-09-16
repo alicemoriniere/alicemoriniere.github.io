@@ -1,6 +1,5 @@
 <template>
-  <img src="./assets/dahliasccc.jpg" class="bannerimg" />
-  <div class="flex flex-col m-5 justify-start">
+   <div class="flex flex-col m-5 justify-start">
     <span class="text-3xl my-2 underline bold"> TP de la préparation à la modélisation en option A :</span>
 <span> J'ajouterai au fur et à mesure de l'année mes corrections et récaps de TP. </span>
    <span class="text-2xl my-3 bold"> Enoncés et corrections des TP :</span>
@@ -42,17 +41,4 @@
   </div>
 </template>
 
-<style scoped>
-.img-photo {
-  width: 19vw;
-}
-.text-block {
-  width: 40vw;
-}
-.bannerimg {
-  width: 100%;
-  height: 35vh;
-  object-fit: cover;
-}
-</style>
 

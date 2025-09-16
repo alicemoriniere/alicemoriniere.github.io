@@ -8,7 +8,10 @@
     <RouterLink to="/agreg" class="nav-router">Agrégation</RouterLink>
     <RouterLink to="/divers" class="nav-router">Divers</RouterLink>
   </nav>
+
   <main>
+<img src="./assets/dahliasccc.jpg" class="bannerimg" />
+
     <RouterView />
   </main>
 </template>
@@ -30,3 +33,19 @@ nav {
   background-color: #d921af;
 }
 </style>
+
+
+<style scoped>
+.img-photo {
+  width: 19vw;
+}
+.text-block {
+  width: 40vw;
+}
+.bannerimg {
+  width: 100%;
+  height: 35vh;
+  object-fit: cover;
+}
+</style>
+

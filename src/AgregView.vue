@@ -1,5 +1,4 @@
 <template>
-<img src="./assets/dahliasccc.jpg" class="bannerimg" />
   <div class="flex flex-col m-10">
     <span>
       J'ai passé l'agrégation en 2024 en option A. Vous pouvez trouver ici l'entièreté de mes
@@ -206,25 +205,11 @@
     </div> 
   <div class="flex flex-col my-10">
    <span >
-      Voilà également le <a href="memoire.pdf" target="_blank" class="underline"
+      Voilà également le <a href="dev/memoire.pdf" target="_blank" class="underline"
           > mémoire</a>  que j'ai rédigé sur la leçon 102 : Groupe des nombres complexes de
  module 1. Racines de l’unité. Applications.
    </span>
    </div>
   </div>
 </template>
-
-<style scoped>
-.img-photo {
-  width: 19vw;
-}
-.text-block {
-  width: 40vw;
-}
-.bannerimg {
-  width: 100%;
-  height: 35vh;
-  object-fit: cover;
-}
-</style>
 

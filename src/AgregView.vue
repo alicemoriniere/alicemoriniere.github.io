@@ -6,7 +6,7 @@
       remarques/infos pas nécessaires pour le développement, mais juste pour essayer d'être paré.e
       face aux questions (en revanche ils sont tous rédigés à la main...). Il est fort probable que
       ces documens contiennent des coquilles, n'hésitez pas à me les signaler ! Voici un document
-      qui résume mon couplage (leçon vers dev et dev vers leçon) : A FAIRE. Certaines associations
+      qui résume mon couplage (leçons vers développements et développements vers leçons) : A FAIRE. Certaines associations
       sont probablement un peu tirées par les cheveux, mais il faut bien combler les trous...
     </span>
     <!--grid-cols-n: nombre de colonnes, gap-x/y : espacement entre deux cellules -->

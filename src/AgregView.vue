@@ -1,3 +1,16 @@
+<script setup lang="ts">
+import katex from 'katex'
+import 'katex/dist/katex.min.css'
+
+const title = (name: string) => {
+  return katex.renderToString(name, {
+    throwOnError: false,
+    output: 'html',
+  })
+}
+</script>
+
+
 <template>
   <div class="flex flex-col m-10">
     <span>
@@ -5,8 +18,8 @@
       développements : mes documents sont souvent très longs, mais ils contiennent beaucoup de
       remarques/infos pas nécessaires pour le développement, mais juste pour essayer d'être paré.e
       face aux questions (en revanche ils sont tous rédigés à la main...). Il est fort probable que
-      ces documens contiennent des coquilles, n'hésitez pas à me les signaler ! Voici un document
-      qui résume mon couplage (leçons vers développements et développements vers leçons) : A FAIRE. Certaines associations
+      ces documens contiennent des coquilles, n'hésitez pas à me les signaler ! Voici un <a 	href="dev/couplage.pdf" target="_blank" class="underline"> document</a>
+      qui résume mon couplage (leçons vers développements et développements vers leçons). Certaines associations
       sont probablement un peu tirées par les cheveux, mais il faut bien combler les trous...
     </span>
     <!--grid-cols-n: nombre de colonnes, gap-x/y : espacement entre deux cellules -->
@@ -17,47 +30,47 @@
         </a></span
       >
       <span>
-        <a href="calculzeta/automorph.pdf" target="_blank" class="underline"
-          >Calcul des zeta 2k
+        <a href="dev/calculzeta.pdf" target="_blank" class="underline"
+          > Calcul des zeta(2k)
         </a></span
       >
       <span>
-        <a href="cardinalnilp/automorph.pdf" target="_blank" class="underline"
+        <a href="dev/cardinalnilp.pdf" target="_blank" class="underline"
           >Cardinal du cône nilpotent
         </a></span
       >
       <span>
-        <a href="classifformesquad/automorph.pdf" target="_blank" class="underline"
+        <a href="dev/classifformesquad.pdf" target="_blank" class="underline"
           >Classification des formes quadratiques sur Fq
         </a></span
       >
       <span>
-        <a href="conditioncycl/automorph.pdf" target="_blank" class="underline"
-          >Condition de cyclicité des Z sur nZ croix
+        <a href="dev/conditioncycl.pdf" target="_blank" class="underline"
+          >Condition de cyclicité des (Z/nZ)^x 
         </a></span
       >
       <span>
-        <a href="cvfaiblehilbert/automorph.pdf" target="_blank" class="underline"
+        <a href="dev/cvfaiblehilbert.pdf" target="_blank" class="underline"
           >Convergence faible et optimisation dans un Hilbert
         </a></span
       >
       <span>
-        <a href="critkalmann/automorph.pdf" target="_blank" class="underline"
+        <a href="dev/critkalmann.pdf" target="_blank" class="underline"
           >Critère de Kalmann
         </a></span
       >
       <span>
-        <a href="decmatrice/automorph.pdf" target="_blank" class="underline"
+        <a href="dev/decmatrice.pdf" target="_blank" class="underline"
           >Décomposition de Dunford et exponentielle de matrices
         </a></span
       >
       <span>
-        <a href="decpolaire/automorph.pdf" target="_blank" class="underline"
+        <a href="dev/decpolaire.pdf" target="_blank" class="underline"
           >Décomposition polaire
         </a></span
       >
       <span>
-        <a href="decpolaire/automorph.pdf" target="_blank" class="underline"
+        <a href="dev/denpolyirred.pdf" target="_blank" class="underline"
           >Dénombrement des polynômes irréductibles sur Fq
         </a></span
       >
@@ -203,11 +216,14 @@
       >
 
     </div> 
-  <div class="flex flex-col my-10">
+  <div class="flex flex-col my-15">
    <span >
       Voilà également le <a href="dev/memoire.pdf" target="_blank" class="underline"
           > mémoire</a>  que j'ai rédigé sur la leçon 102 : Groupe des nombres complexes de
  module 1. Racines de l’unité. Applications.
+   </span>
+<span >
+       Enfin, voilà deux documents qui regroupent les "métaplans" que j'avais préparés - chaque "métaplan" contient plus ou moins les idées/résultats importants à mettre ainsi que des sources où les trouver. Ces documents sont aussi rédigés à la main, et qui plus est avec un soin qui laisse parfois à désirer, mais quitte à les avoir scannés, autant les partager au cas où ça puisse servir ! Voilà les <a href="dev/leconsanalyse.pdf" target="_blank" class="underline"> métaplans d'analyse</a> et  <a href="dev/leconsalgebre.pdf" target="_blank" class="underline"> ceux d'algèbre</a>.
    </span>
    </div>
   </div>

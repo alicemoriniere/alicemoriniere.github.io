@@ -6,7 +6,7 @@
       <span>
         Bienvenue sur mon site ! Je suis actuellement doctorante à l'Université de Rennes, sous la
         supervision de
-        <a class="underline" href="https://jcbreton.pages.math.cnrs.fr/jcb/" _target="blank">
+        <a class="underline" target="_blank" href="https://jcbreton.pages.math.cnrs.fr/jcb/" _target="blank">
           Jean-Christophe Breton,</a
         >
         sur le sujet "Théorèmes limite pour des modèles de boules aléatoires avec interaction".

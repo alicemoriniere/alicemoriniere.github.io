@@ -3,7 +3,7 @@
     <span>
       Je viens de commencer ma thèse sous la
         supervision de
-        <a class="underline" href="https://jcbreton.pages.math.cnrs.fr/jcb/" _target="blank">
+        <a class="underline" target="_blank" href="https://jcbreton.pages.math.cnrs.fr/jcb/" _target="blank">
           Jean-Christophe Breton,</a
         >
         sur le sujet "Théorèmes limite pour des modèles de boules aléatoires avec interaction". Je n'ai évidemment rien à ajouter ici pour l'instant, mais pour avoir une idée de mon sujet de thèse, vous pouvez jeter un oeil à mon <a href="rapportstage/stageM2.pdf" target="_blank" class="underline"> rapport de stage</a> de M2, notamment à la dernière partie qui présente un modèle de boules aléatoires dans le cadre poissonien. L'idée de la thèse serait de généraliser les théorèmes limite obtenus dans ce cas à des classes plus générales de processus ponctuels. 

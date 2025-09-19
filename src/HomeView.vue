@@ -4,7 +4,7 @@
     <div class="flex flex-col w-5/8 px-5">
       <span class="text-3xl underline mb-5"> Alice Morinière </span>
       <span>
-        Bienvenue sur ma page ! Je suis actuellement doctorante à l'Université de Rennes, sous la
+        Bienvenue sur mon site ! Je suis actuellement doctorante à l'Université de Rennes, sous la
         supervision de
         <a class="underline" href="https://jcbreton.pages.math.cnrs.fr/jcb/" _target="blank">
           Jean-Christophe Breton,</a

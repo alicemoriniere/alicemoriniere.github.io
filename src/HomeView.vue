@@ -20,7 +20,7 @@
         >
           Jean-Christophe Breton,</a
         >
-        sur le sujet "Théorèmes limite pour des modèles de boules aléatoires avec interaction". ce
+        sur le sujet "Théorèmes limite pour des modèles de boules aléatoires avec interaction". Sur ce
         site, vous pourrez notamment trouver des documents relatifs à mes enseignements à
         l'Université de Rennes, en particulier pour les TP de prépa agreg en option A, des documents
         en lien avec l'agrégation (que j'ai passé en 2024) et divers mémoires de stages rédigés au

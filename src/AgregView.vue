@@ -10,17 +10,18 @@ const title = (name: string) => {
 }
 </script>
 
-
 <template>
-  <div class="flex flex-col m-10">
+  <div class="flex flex-col">
     <span>
       J'ai passé l'agrégation en 2024 en option A. Vous pouvez trouver ici l'entièreté de mes
       développements : mes documents sont souvent très longs, mais ils contiennent beaucoup de
       remarques/infos pas nécessaires pour le développement, mais juste pour essayer d'être paré.e
       face aux questions (en revanche ils sont tous rédigés à la main...). Il est fort probable que
-      ces documens contiennent des coquilles, n'hésitez pas à me les signaler ! Voici un <a 	href="dev/couplage.pdf" target="_blank" class="underline"> document</a>
-      qui résume mon couplage (leçons vers développements et développements vers leçons). Certaines associations
-      sont probablement un peu tirées par les cheveux, mais il faut bien combler les trous...
+      ces documens contiennent des coquilles, n'hésitez pas à me les signaler ! Voici un
+      <a href="dev/couplage.pdf" target="_blank" class="underline"> document</a>
+      qui résume mon couplage (leçons vers développements et développements vers leçons). Certaines
+      associations sont probablement un peu tirées par les cheveux, mais il faut bien combler les
+      trous...
     </span>
     <!--grid-cols-n: nombre de colonnes, gap-x/y : espacement entre deux cellules -->
     <div class="grid grid-cols-2 gap-x-5 gap-y-5 mt-5">
@@ -30,8 +31,8 @@ const title = (name: string) => {
         </a></span
       >
       <span>
-        <a href="dev/calculzeta.pdf" target="_blank" class="underline"
-          > Calcul des zeta(2k)
+        <a href="dev/calculzeta.pdf" target="_blank" class="underline">
+          Calcul des zeta(2k)
         </a></span
       >
       <span>
@@ -46,7 +47,7 @@ const title = (name: string) => {
       >
       <span>
         <a href="dev/conditioncycl.pdf" target="_blank" class="underline"
-          >Condition de cyclicité des (Z/nZ)^x 
+          >Condition de cyclicité des (Z/nZ)^x
         </a></span
       >
       <span>
@@ -214,18 +215,22 @@ const title = (name: string) => {
           Théorème de Weierstrass par les polynômes de Bernstein
         </a></span
       >
-
-    </div> 
-  <div class="flex flex-col my-15">
-   <span >
-      Voilà également le <a href="dev/memoire.pdf" target="_blank" class="underline"
-          > mémoire</a>  que j'ai rédigé sur la leçon 102 : Groupe des nombres complexes de
- module 1. Racines de l’unité. Applications.
-   </span>
-<span >
-       Enfin, voilà deux documents qui regroupent les "métaplans" que j'avais préparés - chaque "métaplan" contient plus ou moins les idées/résultats importants à mettre ainsi que des sources où les trouver. Ces documents sont aussi rédigés à la main, et qui plus est avec un soin qui laisse parfois à désirer, mais quitte à les avoir scannés, autant les partager au cas où ça puisse servir ! Voilà les <a href="dev/leconsanalyse.pdf" target="_blank" class="underline"> métaplans d'analyse</a> et  <a href="dev/leconsalgebre.pdf" target="_blank" class="underline"> ceux d'algèbre</a>.
-   </span>
-   </div>
+    </div>
+    <div class="flex flex-col my-15">
+      <span>
+        Voilà également le
+        <a href="dev/memoire.pdf" target="_blank" class="underline"> mémoire</a> que j'ai rédigé sur
+        la leçon 102 : Groupe des nombres complexes de module 1. Racines de l’unité. Applications.
+      </span>
+      <span>
+        Enfin, voilà deux documents qui regroupent les "métaplans" que j'avais préparés - chaque
+        "métaplan" contient plus ou moins les idées/résultats importants à mettre ainsi que des
+        sources où les trouver. Ces documents sont aussi rédigés à la main, et qui plus est avec un
+        soin qui laisse parfois à désirer, mais quitte à les avoir scannés, autant les partager au
+        cas où ça puisse servir ! Voilà les
+        <a href="dev/leconsanalyse.pdf" target="_blank" class="underline"> métaplans d'analyse</a>
+        et <a href="dev/leconsalgebre.pdf" target="_blank" class="underline"> ceux d'algèbre</a>.
+      </span>
+    </div>
   </div>
 </template>
-

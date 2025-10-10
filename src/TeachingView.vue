@@ -6,8 +6,9 @@
     <span> J'ajouterai au fur et à mesure de l'année mes corrections et récaps de TP. </span>
     <span class="text-2xl my-3 bold"> Enoncés et corrections des TP :</span>
     <!--grid-cols-n: nombre de colonnes, gap-x/y : espacement entre deux cellules -->
-    <div class="grid grid-cols-8 gap-x-5 gap-y-5 mt-1">
-      <span> <a href="tp/tp1Python.pdf" target="_blank" class="underline"> TP n°1 </a> </span>
+    <div class="grid grid-cols-9 gap-x-5 gap-y-5 mt-1">
+      <span> <a href="tp/tp1Python.pdf" target="_blank" class="underline"> TP n°1</a> </span>
+      <span> <a href="tp/tp1bisPython.pdf" target="_blank" class="underline"> TP n°1 bis </a> </span>
       <span> <a href="tp/tp2Python.pdf" target="_blank" class="underline"> TP n°2 </a> </span>
       <span> <a href="tp/tp3Python.pdf" target="_blank" class="underline"> TP n°3 </a> </span>
       <span> <a href="tp/tp4Python.pdf" target="_blank" class="underline"> TP n°4 </a> </span>
@@ -15,6 +16,16 @@
       <span> <a href="tp/tp6Python.pdf" target="_blank" class="underline"> TP n°6 </a> </span>
       <span> <a href="tp/tp7Python.pdf" target="_blank" class="underline"> TP n°7 </a> </span>
       <span> <a href="tp/tp8Python.pdf" target="_blank" class="underline"> TP n°8 </a> </span>
+      <span> <a href="tp/correctiontp1.py" target="_blank" download class="underline"> Correction </a> </span>
+	<span>  </span>
+	<span>   </span>
+	<span>  </span>
+	<span>  </span>
+	<span>  </span>
+	<span>  </span>
+	<span>  </span>
+	<span>  </span>
+	<span> <a href="tp/recap1.ipynb" target="_blank" download  class="underline"> Recap </a> </span>
     </div>
 
     <span class="text-2xl my-5 bold"> Données nécessaires aux TP :</span>

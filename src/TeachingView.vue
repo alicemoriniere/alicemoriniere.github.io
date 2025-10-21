@@ -17,7 +17,7 @@
       <span> <a href="tp/tp7Python.pdf" target="_blank" class="underline"> TP n°7 </a> </span>
       <span> <a href="tp/tp8Python.pdf" target="_blank" class="underline"> TP n°8 </a> </span>
       <span> <a href="tp/correctiontp1.py" target="_blank" download class="underline"> Correction </a> </span>
-	<span>  </span>
+	<span> <a href="tp/correctiontp1bis.py" target="_blank" download class="underline"> Correction </a> </span>
 	<span>   </span>
 	<span>  </span>
 	<span>  </span>
@@ -26,6 +26,8 @@
 	<span>  </span>
 	<span>  </span>
 	<span> <a href="tp/recap1.ipynb" target="_blank" download  class="underline"> Recap </a> </span>
+	<span> <a href="tp/recap2.ipynb" target="_blank" download  class="underline"> Recap </a> </span>
+
     </div>
 
     <span class="text-2xl my-5 bold"> Données nécessaires aux TP :</span>

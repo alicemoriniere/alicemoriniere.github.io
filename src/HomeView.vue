@@ -37,7 +37,7 @@
       <span class="mb-1 text-sm lg:text-base">
         Bureau 212, Bâtiment 22, Campus de Beaulieu, Rennes
       </span>
-      <span class="text-sm lg:text-base"> alice[dot]moriniere[at]univ-rennes[dot]fr </span>
+      <span class="text-sm lg:text-base"> alice[dot]moriniere[at]univ-rennes[dot]fr  </span>
     </div>
   </div>
 </template>

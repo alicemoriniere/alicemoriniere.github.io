@@ -42,7 +42,7 @@ illustration_cv_ps(2,10000)
 
 def illustration_cv_loi_fdr_exp(l,n,N):
     M=stats.expon.rvs(scale=1/l,size=(N,n))
-    E=np.array([((sqrt(n)/l)*((n/np.sum(M[i]))-l)) for i in range (N)])
+    E=(sqrt(n)/l)*((n/np.sum(M,axis=1))-l)
     E=np.sort(E)
     F_emp=np.arange(1,N+1)/N
     plt.plot(E,F_emp,drawstyle='steps-pre',label='Fonction de répartition empirique')
@@ -81,7 +81,7 @@ def illustration_cv_loi_fdr_exp_bis(l,n,N): # version avec une boucle for
 
 def illustration_cv_loi_hist_exp(l,n,N): # n est la taille des échantillons, et N le nombre des échantillons
     M=stats.expon.rvs(scale=1/l,size=(N,n))
-    L=np.array([((sqrt(n)/l)*((n/np.sum(M[i]))-l)) for i in range (N)])
+    L=(sqrt(n)/l)*((n/np.sum(M,axis=1))-l)
     X=np.linspace(min(L),max(L),200)
     Y=stats.norm.pdf(X)
     plt.hist(L,25,density='True', label='histogramme échantillon')

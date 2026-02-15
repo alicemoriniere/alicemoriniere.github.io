@@ -61,7 +61,7 @@
         <a href="tp/donnees6.5.csv" target="_blank" class="underline"> données densité </a>
       </span>
       <span>
-        TP n°5 : <a href="tp/donnees7.1.csv" target="_blank" class="underline"> données X</a> et
+        TP n°7 : <a href="tp/donnees7.1.csv" target="_blank" class="underline"> données X</a> et
         <a href="tp/donnees7.2.csv" target="_blank" class="underline"> données Y</a></span
       >
 	

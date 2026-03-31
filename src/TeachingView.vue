@@ -22,7 +22,7 @@
 	<span> <a href="tp/correctiontp3.py" target="_blank" download class="underline"> Correction </a> </span>
 	<span> <a href="tp/correctiontp4.py" target="_blank" download class="underline"> Correction </a> </span>
 	<span> <a href="tp/correctiontp5.py" target="_blank" download class="underline"> Correction </a> </span>
-	<span>  </span>
+	<span> <a href="tp/correctiontp6.ipynb" target="_blank" download class="underline"> Correction </a>  </span>
 	<span>  </span>
 	<span> <a href="tp/correctiontp8.py" target="_blank" download class="underline"> Correction </a> </span>
 	<span> <a href="tp/recap1.ipynb" target="_blank" download  class="underline"> Recap </a> </span>

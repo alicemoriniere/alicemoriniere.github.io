@@ -4,7 +4,6 @@
       TP de la préparation à la modélisation en option A (agrégation) :</span
     >
     <span> J'ajouterai au fur et à mesure de l'année mes corrections et récaps de TP. Les fiches de TP (à l'exception de la 1bis) ont été créées par Emeline Luirard. </span>
-    <span> Voici le récap général pour la modé, qui regroupe tous les petits récaps de TP : <a href="tp/recapglobal.ipynb" target="_blank" class="underline">récap</a>. <span>
     <span class="text-2xl my-3 bold"> Enoncés et corrections des TP :</span>
     <!--grid-cols-n: nombre de colonnes, gap-x/y : espacement entre deux cellules -->
     <div class="grid grid-cols-9 gap-x-5 gap-y-5 mt-1">

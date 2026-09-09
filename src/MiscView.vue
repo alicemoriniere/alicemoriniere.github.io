@@ -2,7 +2,7 @@
   <div class="flex flex-col justify-start">
     <span class="text-2xl my-2 underline"> Club de maths de l'IRMAR :</span>
     <span class="my-2">
-      J'ai récemment repris la gestion de club de maths de l'IRMAR (appelé Club Rennes et Maths),
+      J'ai repris en 2025 la gestion de club de maths de l'IRMAR (appelé Club Rennes et Maths),
       qui est à destination des lycéen.ne.s et qui a eu lieu environ un samedi sur deux sur le
       campus de Beaulieu à Rennes. L'idée est de rencontrer pendant deux heures une chercheuse ou un
       chercheur de l'IRMAR qui présentera des maths qui lui tiennent à coeur en version simplifiée

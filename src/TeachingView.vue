@@ -3,7 +3,7 @@
     <span class="text-3xl my-2 underline bold">
       TP de la préparation à la modélisation en option A (agrégation) :</span
     >
-    <span> J'ajouterai au fur et à mesure de l'année mes corrections et récaps de TP. Les fiches de TP (à l'exception de la 1bis) ont été créées par Emeline Luirard. Voici le récap général pour la modé, qui regroupe tous les petits récaps de TP :  <a href="tp/recapglobal.ipynb" target="_blank" download class="underline"> récap</a>. </span>
+    <span> J'ajouterai au fur et à mesure de l'année mes corrections et récaps de TP. Les fiches de TP (à l'exception de la 1bis) ont été créées par Emeline Luirard. <!-- Voici le récap général pour la modé, qui regroupe tous les petits récaps de TP :  <a href="tp/recapglobal.ipynb" target="_blank" download class="underline"> récap</a>. --> </span>
     <span class="text-2xl my-3 bold"> Enoncés et corrections des TP :</span>
     <!--grid-cols-n: nombre de colonnes, gap-x/y : espacement entre deux cellules -->
     <div class="grid grid-cols-10 gap-x-5 gap-y-5 mt-1">
@@ -16,27 +16,28 @@
       <span> <a href="tp/tp6Python.pdf" target="_blank" class="underline"> TP n°6 </a> </span>
       <span> <a href="tp/tp7Python.pdf" target="_blank" class="underline"> TP n°7 </a> </span>
       <span> <a href="tp/tp8Python.pdf" target="_blank" class="underline"> TP n°8 </a> </span>
-      <span> <a href="tp/jeuoie.pdf" target="_blank" class="underline"> Texte TP n°9 </a> </span>
-      <span> <a href="tp/correctiontp1.py" target="_blank" download class="underline"> Correction </a> </span>
-	<span> <a href="tp/correctiontp1bis.py" target="_blank" download class="underline"> Correction </a> </span>
-	<span> <a href="tp/correctiontp2.py" target="_blank" download class="underline"> Correction </a>   </span>
-	<span> <a href="tp/correctiontp3.py" target="_blank" download class="underline"> Correction </a> </span>
-	<span> <a href="tp/correctiontp4.py" target="_blank" download class="underline"> Correction </a> </span>
-	<span> <a href="tp/correctiontp5.py" target="_blank" download class="underline"> Correction </a> </span>
-	<span> <a href="tp/correctiontp6.ipynb" target="_blank" download class="underline"> Correction </a>  </span>
-	<span>  <a href="tp/correctiontp7.ipynb" target="_blank" download class="underline"> Correction </a>  </span>
-	<span> <a href="tp/correctiontp8.py" target="_blank" download class="underline"> Correction </a> </span>
-	<span> <a href="tp/correctionjeuoie.ipynb" target="_blank" download class="underline"> "Correction" </a> </span>
+      <span> <!-- <a href="tp/jeuoie.pdf" target="_blank" class="underline"> Texte TP n°9 </a> --> 
+</span>
+      <span> <!-- <a href="tp/correctiontp1.py" target="_blank" download class="underline"> Correction </a> --> </span> 
+	<span> <!-- <a href="tp/correctiontp1bis.py" target="_blank" download class="underline"> Correction </a> --> </span>
+	<span> <!-- <a href="tp/correctiontp2.py" target="_blank" download class="underline"> Correction </a> -->  </span>
+	<span> <!-- <a href="tp/correctiontp3.py" target="_blank" download class="underline"> Correction </a> --> </span>
+	<span> <!-- <a href="tp/correctiontp4.py" target="_blank" download class="underline"> Correction </a> --> </span>
+	<span> <!-- <a href="tp/correctiontp5.py" target="_blank" download class="underline"> Correction </a> --> </span>
+	<span> <!-- <a href="tp/correctiontp6.ipynb" target="_blank" download class="underline"> Correction </a> --> </span>
+	<span>  <!-- <a href="tp/correctiontp7.ipynb" target="_blank" download class="underline"> Correction </a> --> </span>
+	<span> <!-- <a href="tp/correctiontp8.py" target="_blank" download class="underline"> Correction </a> --> </span>
+	<span> <!-- <a href="tp/correctionjeuoie.ipynb" target="_blank" download class="underline"> "Correction" </a> --> </span>
 
-	<span> <a href="tp/recap1.ipynb" target="_blank" download  class="underline"> Recap </a> </span>
-	<span> <a href="tp/recap2.ipynb" target="_blank" download  class="underline"> Recap </a> </span>
-	<span> <a href="tp/recap1.ipynb" target="_blank" download  class="underline"> Recap </a> </span>
-	<span> <a href="tp/recap3.ipynb" target="_blank" download  class="underline"> Recap </a> </span>
-	<span> <a href="tp/recap4.ipynb" target="_blank" download  class="underline"> Recap </a> </span>
-	<span> <a href="tp/recap5.ipynb" target="_blank" download  class="underline"> Recap </a> </span>
+	<span> <!-- <a href="tp/recap1.ipynb" target="_blank" download  class="underline"> Recap </a> --> </span>
+	<span> <!-- <a href="tp/recap2.ipynb" target="_blank" download  class="underline"> Recap </a> --> </span>
+	<span> <!-- <a href="tp/recap1.ipynb" target="_blank" download  class="underline"> Recap </a> --> </span>
+	<span> <!-- <a href="tp/recap3.ipynb" target="_blank" download  class="underline"> Recap </a> --> </span>
+	<span> <!-- <a href="tp/recap4.ipynb" target="_blank" download  class="underline"> Recap </a> --> </span>
+	<span> <!-- <a href="tp/recap5.ipynb" target="_blank" download  class="underline"> Recap </a> --> </span>
 	<span>  </span>
 	<span>  </span>
-	<span> <a href="tp/recap8.ipynb" target="_blank" download  class="underline"> Recap </a> </span>
+	<span> <!-- <a href="tp/recap8.ipynb" target="_blank" download  class="underline"> Recap </a> --> </span>
 
 
     </div>
